@@ -1,7 +1,7 @@
-# **Projet Informatique SA7**
+# **Negociation App**
 
 ## **Présentation du Projet**
-Le projet "projet informatique SA7" est un projet visant à simuler des négociations entre un acheteur et un ou plusieurs négociateurs. Pour cela, nous avons développé un système qui comprend plusieurs éléments.  
+Le projet "NegociationApp" est un projet visant à simuler des négociations entre un acheteur et un ou plusieurs négociateurs. Pour cela, nous avons développé un système qui comprend plusieurs éléments.  
 
 Le projet inclut une interface utilisateur avec quatre différents menus :  
 1. **Paramètres** : un menu où il est possible de configurer tous les paramètres d'une négociation.  
