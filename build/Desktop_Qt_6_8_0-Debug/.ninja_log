@@ -1,0 +1,47 @@
+# ninja log v5
+1438	1444	1733941740799800881	/home/loko/Documents/UNI/UNI L3/Semestre 5/Projet Informatique/projet-informatique-sa7/build/Desktop_Qt_6_8_0-Debug/ui_Parametres.h	634bdb681e140b5e
+1437	8045	1734105443021304596	CMakeFiles/projet-informatique-sa7.dir/frontend/src/store.cpp.o	454d199e71f24e44
+1438	7776	1734105442744301273	CMakeFiles/projet-informatique-sa7.dir/backend/src/back_end_main.cpp.o	74e7b89fe4b25280
+5591	6322	1734105441302283964	CMakeFiles/projet-informatique-sa7.dir/backend/src/Produit.cpp.o	6c2db69472a69164
+4607	5590	1734105440563275081	CMakeFiles/projet-informatique-sa7.dir/backend/src/Message.cpp.o	a3ef2a63a53b8692
+1437	7901	1734105442876302857	CMakeFiles/projet-informatique-sa7.dir/frontend/src/MainWindow.cpp.o	e99404f147a13022
+1436	7432	1734105442401297158	CMakeFiles/projet-informatique-sa7.dir/main.cpp.o	e93faeeac9d1dc2c
+1438	1445	1733941740799800881	/home/loko/Documents/UNI/UNI L3/Semestre 5/Projet Informatique/projet-informatique-sa7/build/Desktop_Qt_6_8_0-Debug/ui_store.h	6189e96a0ec893be
+9	369	1734105487559824379	build.ninja	5f64e1311254018e
+6390	7633	1734105442611299678	CMakeFiles/projet-informatique-sa7.dir/backend/src/Threads_var.cpp.o	29d8791922650eae
+1438	3512	1734105438487250085	CMakeFiles/projet-informatique-sa7.dir/backend/src/Acheteur.cpp.o	9883a3df8ccfd9d4
+23	1436	1734105436418225109	projet-informatique-sa7_autogen/timestamp	94691392cad982b6
+23	1436	1734105436418225109	/home/loko/Desktop/test/projet-informatique-sa7/build/Desktop_Qt_6_8_0-Debug/projet-informatique-sa7_autogen/mocs_compilation.cpp	94691392cad982b6
+1438	1444	1733941740799800881	/home/loko/Documents/UNI/UNI L3/Semestre 5/Projet Informatique/projet-informatique-sa7/build/Desktop_Qt_6_8_0-Debug/ui_StartScreen.h	57442137a1609bfb
+1437	7308	1734105442276295659	CMakeFiles/projet-informatique-sa7.dir/frontend/src/StartScreen.cpp.o	540298c65e8539f6
+3512	4607	1734105439585263313	CMakeFiles/projet-informatique-sa7.dir/backend/src/BoiteAuLettres.cpp.o	b3c94e4256158a0d
+1438	1444	1733941740798800855	/home/loko/Documents/UNI/UNI L3/Semestre 5/Projet Informatique/projet-informatique-sa7/build/Desktop_Qt_6_8_0-Debug/ui_garage.h	dbe2f4cef4d184a5
+1437	7739	1734105442710300865	CMakeFiles/projet-informatique-sa7.dir/frontend/src/Parametres.cpp.o	8333e58beef14bc8
+23	1436	1734105436418225109	/home/loko/Desktop/test/projet-informatique-sa7/build/Desktop_Qt_6_8_0-Debug/projet-informatique-sa7_autogen/timestamp	94691392cad982b6
+1437	7161	1734105442128293883	CMakeFiles/projet-informatique-sa7.dir/frontend/src/chats.cpp.o	6bcec349c66f3de7
+6985	8450	1734105443429309484	CMakeFiles/projet-informatique-sa7.dir/backend/src/Vendeur.cpp.o	3d626a16c3c3ab10
+2	6	0	CMakeFiles/clean.additional	b81848f48346f4cd
+1437	6985	1734105441940291627	CMakeFiles/projet-informatique-sa7.dir/frontend/src/garage.cpp.o	6bf722e580ffa247
+1438	1444	1733941740798800855	/home/loko/Documents/UNI/UNI L3/Semestre 5/Projet Informatique/projet-informatique-sa7/build/Desktop_Qt_6_8_0-Debug/ui_chats.h	a49c70a830606ac6
+23	1436	1734105436418225109	projet-informatique-sa7_autogen/mocs_compilation.cpp	94691392cad982b6
+6	9	0	clean	a31eedcededa8236
+1438	1444	1733941740798800855	/home/loko/Documents/UNI/UNI L3/Semestre 5/Projet Informatique/projet-informatique-sa7/build/Desktop_Qt_6_8_0-Debug/ui_MainWindow.h	48b039cdf7cf0bd6
+966	1434	1733990195890260901	projet-informatique-sa7	35c16b2dff85f3
+6322	6386	1734105441367284745	CMakeFiles/projet-informatique-sa7.dir/backend/src/Protocol.cpp.o	c25505c801aa575d
+7161	7798	1734105442779301693	CMakeFiles/projet-informatique-sa7.dir/backend/src/Voiture.cpp.o	668f83142d9d2fe3
+1436	7818	1734105442794301873	CMakeFiles/projet-informatique-sa7.dir/projet-informatique-sa7_autogen/mocs_compilation.cpp.o	e0dbcf3e0458065f
+5	459	1734105491078864276	projet-informatique-sa7_autogen/timestamp	94691392cad982b6
+5	459	1734105491078864276	projet-informatique-sa7_autogen/mocs_compilation.cpp	94691392cad982b6
+5	459	1734105491078864276	/home/loko/Desktop/test/projet-informatique-sa7/build/Desktop_Qt_6_8_0-Debug/projet-informatique-sa7_autogen/timestamp	94691392cad982b6
+5	459	1734105491078864276	/home/loko/Desktop/test/projet-informatique-sa7/build/Desktop_Qt_6_8_0-Debug/projet-informatique-sa7_autogen/mocs_compilation.cpp	94691392cad982b6
+460	3236	1734105493850895587	CMakeFiles/projet-informatique-sa7.dir/projet-informatique-sa7_autogen/mocs_compilation.cpp.o	e0dbcf3e0458065f
+4	775	1734105639744411588	projet-informatique-sa7_autogen/timestamp	94691392cad982b6
+4	775	1734105639744411588	projet-informatique-sa7_autogen/mocs_compilation.cpp	94691392cad982b6
+4	775	1734105639744411588	/home/loko/Desktop/test/projet-informatique-sa7/build/Desktop_Qt_6_8_0-Debug/projet-informatique-sa7_autogen/timestamp	94691392cad982b6
+4	775	1734105639744411588	/home/loko/Desktop/test/projet-informatique-sa7/build/Desktop_Qt_6_8_0-Debug/projet-informatique-sa7_autogen/mocs_compilation.cpp	94691392cad982b6
+775	4085	1734105643052443244	CMakeFiles/projet-informatique-sa7.dir/main.cpp.o	e93faeeac9d1dc2c
+775	4522	1734105643484447369	CMakeFiles/projet-informatique-sa7.dir/frontend/src/garage.cpp.o	6bf722e580ffa247
+775	4541	1734105643505447569	CMakeFiles/projet-informatique-sa7.dir/projet-informatique-sa7_autogen/mocs_compilation.cpp.o	e0dbcf3e0458065f
+776	4874	1734105643841450778	CMakeFiles/projet-informatique-sa7.dir/frontend/src/Vente.cpp.o	d5e0dad9d9058186
+776	5097	1734105644062452887	CMakeFiles/projet-informatique-sa7.dir/frontend/src/MainWindow.cpp.o	e99404f147a13022
+5097	5532	1734105644500457065	projet-informatique-sa7	8477cb820f7f7d07
