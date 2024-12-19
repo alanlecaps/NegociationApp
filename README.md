@@ -56,7 +56,7 @@ brew install qt6 cmake ninja
 ### **3. Compilation**
 1. Clonez le projet depuis le dépôt Git :
    ```bash
-   git clone git@forge.univ-lyon1.fr:p2207404/projet-informatique-sa7.git
+   git clone https://github.com/alanlecaps/NegociationApp.git
    cd projet-informatique-sa7
    ```
 2. configurez le projet :
